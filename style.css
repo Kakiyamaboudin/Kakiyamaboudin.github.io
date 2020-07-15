@@ -1,0 +1,27 @@
+h1
+{
+	color:purple;
+}
+
+body
+{
+	 background-color: blue;
+}
+#carte
+{
+
+ width: 800px;
+
+margin:0 auto;
+
+background-color: orange;
+
+text-align: center;
+
+align-content: center;
+
+}
+ul li
+{list-style-type: none;}
+h3
+{color:red;}
